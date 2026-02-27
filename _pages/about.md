@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Porter Hall 117
+    4815 Frew St, 
+    Pittsburgh, PA 15213
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm a PhD student in [Civil and Environmental Engineering at Carnegie Mellon University](https://cee.engineering.cmu.edu), advised by [David Rounce](https://cee.engineering.cmu.edu/directory/bios/rounce-david.html) and [Sarah Fakhreddine](https://cee.engineering.cmu.edu/directory/bios/fakhreddine-sarah.html). I'm interested in the intersection of water, climate, and human systems, and how we can use data and modeling to understand them better. Currently, I'm working on understanding how climate change will impact agricultural pollutant loading into the Chesapeake Bay and the robustness of different adaptation strategies.
+
+I grew up in San Jose, CA, where water often meant scarcity. I've since landed in places where its more abundant, but no less complicated. I studied civil engineering at the [University of Portland](https://www.up.edu) in Portland, OR, where I had my first taste of stormwater research, and had the opportunity to study abroad in France and Iceland. In my free time, I enjoy cooking, making things, and spending time in and around water (though hopefully not analyzing it).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
