@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I'm a PhD student in [Civil and Environmental Engineering at Carnegie Mellon University](https://cee.engineering.cmu.edu), advised by [David Rounce](https://cee.engineering.cmu.edu/directory/bios/rounce-david.html) and [Sarah Fakhreddine](https://cee.engineering.cmu.edu/directory/bios/fakhreddine-sarah.html). I'm interested in the intersection of water, climate, and human systems, and how we can use data and modeling to understand them better. Currently, I'm working on understanding how climate change will impact agricultural pollutant loading into the Chesapeake Bay and the robustness of different adaptation strategies.
