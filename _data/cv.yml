@@ -122,7 +122,7 @@ cv:
 
     Academic Projects:
       - title: Physics Informed Neural Networks for Water Quality
-        authors: "Carnegie Mellon University"
+        instiution: "Carnegie Mellon University"
         location: Pittsburgh, PA
         date: 2026
         highlights: 
@@ -130,7 +130,7 @@ cv:
           - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
      
       - title: Representative Characteristics of the Chesapeake Bay Watershed
-        authors: "Carnegie Mellon University"
+        instiution: "Carnegie Mellon University"
         location: Pittsburgh, PA
         date: 2025
         highlights: 
@@ -138,7 +138,7 @@ cv:
           - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
       
       - title: Outfall 65 Stormwater Treatment
-        authors: "University of Portland"
+        instiution: "University of Portland"
         location: Portland OR
         start_date: 2023
         end_date: 2024
@@ -147,7 +147,7 @@ cv:
           - "Delivered design proposal with analysis of alternatives; plans drafted in AutoCAD and ArcGIS"
       
       - title: Ocean Power and Energy Burden
-        authors: "Reykjavik University, Iceland"
+        instiution: "Reykjavik University, Iceland"
         location: Reykjavik, Iceland
         date: 2022
         highlights:
