@@ -23,12 +23,12 @@ cv:
     Education:
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
-        url: https://www.cmu.edu/
+        url: "https://www.cmu.edu/"
         area: Civil & Environmental Engineering
         studyType: PhD
         start_date: 2024
-        end_date: 2009 (expected)
-        summary: Advisors: David Rounce, Sarah Fakhreddine
+        end_date: 2029 (expected)
+        summary: "Advisors: David Rounce, Sarah Fakhreddine"
         # courses: "Theory of Relativity"
         # highlights:
         #   - Description 1.
@@ -122,7 +122,7 @@ cv:
     Academic Projects:
       - title: Physics Informed Neural Networks for Water Quality
         awarder: Carnegie Mellon University
-        location: Pittsbugh, PA
+        location: Pittsburgh, PA
         date: 2026
         highlights: 
           - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2"
@@ -130,7 +130,7 @@ cv:
      
       - title: Representative Characteristics of the Chesapeake Bay Watershed
         awarder: Carnegie Mellon University
-        location: Pittsbugh, PA
+        location: Pittsburgh, PA
         date: 2025
         highlights: 
           - "Conducted multi-parameter characterization of four physiographic regions using satellite data, soil databases, and groundwater measurements"
@@ -184,7 +184,7 @@ cv:
         summary: Biochar amendment improved removal of copper (73% vs 25%) and zinc (79% vs 54%) in pilot-scale bioretention columns, but showed nutrient leaching and no significant effect on microplastics removal.
 
     Skills:
-      - name: Programing
+      - name: Programming
         # level: Master
         # icon: fa-solid fa-hashtag
         summary: "Python (geopandas, rasterio, SALib, TensorFlow), R, MATLAB, Git"
@@ -200,7 +200,7 @@ cv:
         summary: "Native"
 
       - name: Polish
-        summary: "Intermidate"
+        summary: "Intermediate"
 
       - name: Spanish
         summary: "Elementary"
