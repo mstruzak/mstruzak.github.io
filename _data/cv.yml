@@ -120,35 +120,31 @@ cv:
           - "Prepared samples for microplastics analysis and performed preliminary testing"
           - "Identified and collected moss samples; prepared samples for microplastics analysis"
 
-    Academic Projects:
-      - title: Physics Informed Neural Networks for Water Quality
-        instiution: "Carnegie Mellon University"
-        location: Pittsburgh, PA
+    projects:
+      - name: Physics Informed Neural Networks for Water Quality
+        location: "Carnegie Mellon University, Pittsburgh, PA"
         date: 2026
         highlights: 
           - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2"
           - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
      
-      - title: Representative Characteristics of the Chesapeake Bay Watershed
-        instiution: "Carnegie Mellon University"
-        location: Pittsburgh, PA
+      - name: Representative Characteristics of the Chesapeake Bay Watershed
+        location: "Carnegie Mellon University, Pittsburgh, PA"
         date: 2025
         highlights: 
           - "Conducted multi-parameter characterization of four physiographic regions using satellite data, soil databases, and groundwater measurements"
           - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
       
-      - title: Outfall 65 Stormwater Treatment
-        instiution: "University of Portland"
-        location: Portland OR
+      - name: Outfall 65 Stormwater Treatment
+        location: "University of Portland, Portland, OR"
         start_date: 2023
         end_date: 2024
         highlights: 
           - "Designed stormwater treatment facility integrating green infrastructure with treatment vault for socio-economically vulnerable community"
           - "Delivered design proposal with analysis of alternatives; plans drafted in AutoCAD and ArcGIS"
       
-      - title: Ocean Power and Energy Burden
-        instiution: "Reykjavik University, Iceland"
-        location: Reykjavik, Iceland
+      - name: Ocean Power and Energy Burden
+        location: "Reykjavik University, Reykjavik, Iceland"
         date: 2022
         highlights:
           - "Compiled review of ocean power technologies"
