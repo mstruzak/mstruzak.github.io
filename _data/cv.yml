@@ -27,7 +27,7 @@ cv:
         area: Civil & Environmental Engineering
         studyType: PhD
         start_date: 2024
-        end_date: "2029 (expected)"
+        end_date: "present"
         summary: "Advisors: David Rounce, Sarah Fakhreddine"
         # courses: "Theory of Relativity"
         # highlights:
@@ -56,7 +56,7 @@ cv:
         position: Graduate Research Assistant
         location: Pittsburgh, PA
         start_date: 2024
-        end_date: Present
+        end_date: "present"
         summary: "Climate Change Impacts on Agricultural Best Management Practices in the Chesapeake Bay Watershed"
         highlights:
           - "Collaborating with the Chesapeake Bay Program, The Water Institute and RAND to evaluate BMP effectiveness under RCP4.5/8.5 climate scenarios to inform EPA policy decisions"
@@ -111,6 +111,7 @@ cv:
           - "Prepared a manuscript as first author for Journal of Environmental Engineering (see Publications)"
 
       - company: Portland State University
+        position: Undergraduate Research Assistant
         location: Portland, OR
         date: 2022
         summary: Microplastics in Moss Research
@@ -121,7 +122,7 @@ cv:
 
     Academic Projects:
       - title: Physics Informed Neural Networks for Water Quality
-        awarder: Carnegie Mellon University
+        authors: Carnegie Mellon University
         location: Pittsburgh, PA
         date: 2026
         highlights: 
@@ -129,7 +130,7 @@ cv:
           - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
      
       - title: Representative Characteristics of the Chesapeake Bay Watershed
-        awarder: Carnegie Mellon University
+        authors: Carnegie Mellon University
         location: Pittsburgh, PA
         date: 2025
         highlights: 
@@ -137,7 +138,7 @@ cv:
           - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
       
       - title: Outfall 65 Stormwater Treatment
-        awarder: University of Portland
+        authors: University of Portland
         location: Portland OR
         start_date: 2023
         end_date: 2024
@@ -146,7 +147,7 @@ cv:
           - "Delivered design proposal with analysis of alternatives; plans drafted in AutoCAD and ArcGIS"
       
       - title: Ocean Power and Energy Burden
-        awarder: Reykjavik University, Iceland
+        authors: Reykjavik University, Iceland
         location: Reykjavik, Iceland
         date: 2022
         highlights:
@@ -158,7 +159,7 @@ cv:
         position: Student Representative
         location: Pittsburgh, PA
         start_date: 2024
-        end_date: Present
+        end_date: "present"
         highlights:
           - "Plan outreach events promoting STEM education"
           - "Lead hands-on, engineering-related workshops for K-12 students"
