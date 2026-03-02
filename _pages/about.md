@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: ਮਾਇਆਕੌਰ
 
 profile:
   align: right
