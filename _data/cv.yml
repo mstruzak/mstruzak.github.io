@@ -1,189 +1,244 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Maya Struzak
+  # label: Scientist
+  email: mstruzak@andrew.cmu.edu
+  location: Pittsburgh, PA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: mstruzak
     - network: LinkedIn
-      username: example
+      username: mayastruzak
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 4815 Frew St Room 117, Pittsburgh, PA 15213
+    city: Pittsburgh
+    region: Pennsylvania
+    postalCode: PA 15217
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA
+        url: https://www.cmu.edu/
+        area: Civil & Environmental Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2024
+        end_date: 2009 (expected)
+        summary: Advisors: David Rounce, Sarah Fakhreddine
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Portland
+        location: Portland, OR
+        area: Civil Engineering
+        studyType: BSc
+        start_date: 2020
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dean's List, President's Scholarship"
+          - "NAE Grand Challenge Scholar"
+          
+      - institution: INSA Lyon
+        location: Lyon, France
+        area: Civil Engineering and Urbanism
+        studyType: Independently Arranged Exchange
+        date: 2023
+        summary: Advisor: Gislain Lipeme-Kouyi
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    Research:
+      - company: Carnegie Institute of Technology, Carnegie Mellon University
+        position: Graduate Research Assistant
+        location: Pittsburgh, PA
+        start_date: 2024
+        end_date: Present
+        summary: Climate Change Impacts on Agricultural Best Management Practices in the Chesapeake Bay Watershed
         highlights:
-          - Relativity
-          - Description 2.
+          - "Collaborating with the Chesapeake Bay Program, The Water Institute and RAND to evaluate BMP effectiveness under RCP4.5/8.5 climate scenarios to inform EPA policy decisions"
+          - "Modeling pollutant removal efficiencies for nitrogen, phosphorus, and sediment across four physiographic regions using the APEX model"
+          - "Developing Python tools for automated data processing, analysis, and visualization of multi-regional watershed model outputs"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
+      - company: NASA Jet Propulsion Laboratory
+        position: Summer School Participant
         location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+        date: 2025
+        summary: Satellite Observations and Climate Models
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Completed intensive training on satellite remote sensing applications for climate science"
+          - "Developed project on ocean alkalinity enhancement as a carbon dioxide removal strategy"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: University of Portland
+        position: Undergraduate Research Assistant
+        location: Portland, OR
+        date: 2024
+        summary: Green stormwater infrastructure (GSI) in a changing climate: evaluating tradeoffs between runoff and urban heat
+        highlights:
+          - "Assisted Dr. Jordyn Wolfand with drafting of NSF funding proposal"
+          - "Developed a review of relevant literature and began developing methodology using Noah-MP Land Surface Model"
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Kimley Horn and Associates
+        position: Civil Engineering Production Intern
+        location: Portland, OR
+        date: 2023
+        highlights:
+          - "Drafted and modeled engineering designs using Civil 3D"
+          - "Sought mentorship from Senior Engineers"
+      
+      - company: INSA Lyon
+        position: International Student Researcher
+        location: Lyon, France
+        date: 2023
+        summary: Monitoring, Modelling Approaches, and Evaluation of the Resilience of Bioretention Systems
+        highlights:
+          - "Completed independent research thesis (60+ pages) on modeling and assessing bioretention cell resilience to climate change; defended before faculty jury"
+          - "Conducted literature review of 86 publications and curated case studies to validate bioretention models"
+          - "Collaborated with PhD candidate on preliminary model validation for CANOE Hydrobox (hydrologic model)"
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: University of Portland
+        position: Undergraduate Research Assistant
+        location: Portland, OR
+        start_date: 2021
+        end_date: 2022
+        summary: Efficiency of Biochar as an Amendment to Bioretention Systems
+        highlights:
+          - "Studied pollutant removal efficiency of biochar in bioretention under Prof. Cara Poor and Dr. Jordyn Wolfand"
+          - "Designed and conducted experimental trials using pilot-scale bioretention systems and performed wet lab analysis of stormwater effluent samples for metals, nutrients, and microplastics"
+          - "Prepared a manuscript as first author for Journal of Environmental Engineering (see Publications)"
 
+      - company: Portland State University
+        location: Portland, OR
+        date: 2022
+        summary: Microplastics in Moss Research
+        highlights:
+          - "Conducted field sample collection, preservation, and documentation of moss samples from urban trees"
+          - "Prepared samples for microplastics analysis and performed preliminary testing"
+          - "Identified and collected moss samples; prepared samples for microplastics analysis"
+
+    Academic Projects:
+      - title: Physics Informed Neural Networks for Water Quality
+        awarder: Carnegie Mellon University
+        location: Pittsbugh, PA
+        date: 2026
+        highlights: 
+          - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2"
+          - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
+     
+      - title: Representative Characteristics of the Chesapeake Bay Watershed
+        awarder: Carnegie Mellon University
+        location: Pittsbugh, PA
+        date: 2025
+        highlights: 
+          - "Conducted multi-parameter characterization of four physiographic regions using satellite data, soil databases, and groundwater measurements"
+          - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
+      
+      - title: Outfall 65 Stormwater Treatment
+        awarder: University of Portland
+        location: Portland OR
+        start_date: 2023
+        end_date: 2024
+        highlights: 
+          - "Designed stormwater treatment facility integrating green infrastructure with treatment vault for socio-economically vulnerable community"
+          - "Delivered design proposal with analysis of alternatives; plans drafted in AutoCAD and ArcGIS"
+      
+      - title: Ocean Power and Energy Burden
+        awarder: Reykjavik University, Iceland
+        location: Reykjavik, Iceland
+        date: 2022
+        highlights:
+          - "Compiled review of ocean power technologies"
+          - "Assessed feasibility for reducing energy burden in marginalized coastal communities"
+    
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: CMU Graduate Student Outreach Committee
+        position: Student Representative
+        location: Pittsburgh, PA
+        start_date: 2024
+        end_date: Present
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Plan outreach events promoting STEM education"
+          - "Lead hands-on, engineering-related workshops for K-12 students"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Global Brigades
+        position: International Public Health Volunteer
+        location: Anomabo, Ghana
+        date: 2022
+        highlights:
+          - "Collaborated with local engineers to design and construct anaerobic digestor toilet systems" 
+          - "Created sanitation education materials for local community"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Evaluation of Biochar on Metals, Nutrient, and Microplastics Removal in Bioretention Systems
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Maya Struzak
+          - Cara Poor
+          - Jordyn Wolfand
+          - Abigail Radke
+        publisher: Journal of Environmental Engineering
+        releaseDate: January 2024
+        url: "https://doi.org/10.1061/JOEEDU.EEENG-7487"
+        summary: Biochar amendment improved removal of copper (73% vs 25%) and zinc (79% vs 54%) in pilot-scale bioretention columns, but showed nutrient leaching and no significant effect on microplastics removal.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+      - name: Programing
+        # level: Master
+        # icon: fa-solid fa-hashtag
+        summary: "Python (geopandas, rasterio, SALib, TensorFlow), R, MATLAB, Git"
+      
+      - name: GIS & Modeling
+        summary: "ArcGIS, Google Earth Engine, APEX, SWMM, AutoCAD Civil3D"
+        
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Native"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "Native"
+
+      - name: Polish
+        summary: "Intermidate"
+
+      - name: Spanish
+        summary: "Elementary"
+
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Engineer in Training (EIT)
+        date: 2024
+        issuer: State of California
+        # icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: AutoCAD Certified User
+        date: 2022
+        issuer: AutoDesk
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor David Rounce
+        # icon: fa-solid fa-laptop
+        reference: drounce@cmu.edu
+        
+      - name: Professor Sarah Fakhreddine
+        reference: sfakhreddine@andrew.cmu.edu
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Cara Poor
+        reference: cpoor@up.edu
+
+      - name: Professor Jordyn Wolfand
+        reference: wolfand@up.edu
