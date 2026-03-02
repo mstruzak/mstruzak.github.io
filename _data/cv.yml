@@ -3,7 +3,7 @@ cv:
   # label: Scientist
   email: mstruzak@andrew.cmu.edu
   location: Pittsburgh, PA
-  image: ""
+  # image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
@@ -57,7 +57,7 @@ cv:
         location: Pittsburgh, PA
         start_date: 2024
         end_date: Present
-        summary: Climate Change Impacts on Agricultural Best Management Practices in the Chesapeake Bay Watershed
+        summary: "Climate Change Impacts on Agricultural Best Management Practices in the Chesapeake Bay Watershed"
         highlights:
           - "Collaborating with the Chesapeake Bay Program, The Water Institute and RAND to evaluate BMP effectiveness under RCP4.5/8.5 climate scenarios to inform EPA policy decisions"
           - "Modeling pollutant removal efficiencies for nitrogen, phosphorus, and sediment across four physiographic regions using the APEX model"
@@ -67,7 +67,7 @@ cv:
         position: Summer School Participant
         location: Pasadena, California, US
         date: 2025
-        summary: Satellite Observations and Climate Models
+        summary: "Satellite Observations and Climate Models"
         highlights:
           - "Completed intensive training on satellite remote sensing applications for climate science"
           - "Developed project on ocean alkalinity enhancement as a carbon dioxide removal strategy"
@@ -76,7 +76,7 @@ cv:
         position: Undergraduate Research Assistant
         location: Portland, OR
         date: 2024
-        summary: Green stormwater infrastructure (GSI) in a changing climate: evaluating tradeoffs between runoff and urban heat
+        summary: "Green stormwater infrastructure (GSI) in a changing climate: evaluating tradeoffs between runoff and urban heat"
         highlights:
           - "Assisted Dr. Jordyn Wolfand with drafting of NSF funding proposal"
           - "Developed a review of relevant literature and began developing methodology using Noah-MP Land Surface Model"
