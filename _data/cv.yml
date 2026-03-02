@@ -51,7 +51,7 @@ cv:
         date: 2023
         summary: "Advisor: Gislain Lipeme-Kouyi"
 
-    Research:
+    Experience:
       - company: Carnegie Institute of Technology, Carnegie Mellon University
         position: Graduate Research Assistant
         location: Pittsburgh, PA
@@ -120,7 +120,7 @@ cv:
           - "Prepared samples for microplastics analysis and performed preliminary testing"
           - "Identified and collected moss samples; prepared samples for microplastics analysis"
 
-    projects:
+    Projects:
       - name: Physics Informed Neural Networks for Water Quality
         location: "Carnegie Mellon University, Pittsburgh, PA"
         date: 2026
@@ -151,8 +151,7 @@ cv:
           - "Assessed feasibility for reducing energy burden in marginalized coastal communities"
     
     Volunteer:
-      - company: CMU Graduate Student Outreach Committee
-        position: Student Representative
+      - name: "CMU Graduate Student Outreach Committee Representative"
         location: Pittsburgh, PA
         start_date: 2024
         end_date: "present"
@@ -160,8 +159,7 @@ cv:
           - "Plan outreach events promoting STEM education"
           - "Lead hands-on, engineering-related workshops for K-12 students"
 
-      - company: Global Brigades
-        position: International Public Health Volunteer
+      - name: Global Brigades International Public Health Volunteer
         location: Anomabo, Ghana
         date: 2022
         highlights:
