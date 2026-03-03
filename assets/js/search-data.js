@@ -84,7 +84,7 @@ ninja.data = [{
               window.location.href = "/projects/capstone.html";
             },},{id: "projects-monitoring-modeling-approaches-and-evaluation-of-the-resilience-of-bioretention-systems",
           title: 'Monitoring, Modeling Approaches and Evaluation of the Resilience of Bioretention Systems',
-          description: "Final deliverable from independent research asssistantship during exchange semester at INSA Lyon in France; defended before a faculty Jury in French.",
+          description: "Independent research asssistantship during exchange semester at INSA Lyon in France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
             },},{id: "teachings-data-science-fundamentals",
