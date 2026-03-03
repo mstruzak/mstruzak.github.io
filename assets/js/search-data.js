@@ -42,9 +42,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-monitoring-modeling-approaches-and-evaluation-of-the-resilience-of-bioretention-systems",
+          title: 'Monitoring, Modeling Approaches and Evaluation of the Resilience of Bioretention Systems',
+          description: "Final deliverable from independent research asssistantship during exchange semester at INSA Lyon in France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
