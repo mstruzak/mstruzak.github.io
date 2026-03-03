@@ -102,7 +102,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/cv.pdf", "_blank");
+          window.open("/assets/pdf/mstruzak_cv_sp26.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -112,11 +112,11 @@ ninja.data = [{
           window.open("mailto:%6D%73%74%72%75%7A%61%6B@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0000-8337-534X", "_blank");
+          window.open("https://github.com/mstruzak", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -126,11 +126,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/mayastruzak", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/mstruzak", "_blank");
+          window.open("https://orcid.org/0009-0000-8337-534X", "_blank");
         },
       },{
       id: 'light-theme',
