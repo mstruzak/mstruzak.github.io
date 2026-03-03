@@ -1,5 +1,8 @@
 # for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
 settings:
+  date: "2026-03-02"
+  bold_keywords: []
+  sort_entries: "none"
   render_command:
     # Paths must be relative to _data/cv.yaml
     design: ../assets/rendercv/design.yaml
