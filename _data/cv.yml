@@ -48,7 +48,8 @@ cv:
         location: Lyon, France
         area: Civil Engineering and Urbanism
         studyType: Independently Arranged Exchange
-        date: 2023
+        start_date: 2023
+        end_date: 2023
         summary: "Advisor: Gislain Lipeme-Kouyi"
 
     Experience:
@@ -63,19 +64,11 @@ cv:
           - "Modeling pollutant removal efficiencies for nitrogen, phosphorus, and sediment across four physiographic regions using the APEX model"
           - "Developing Python tools for automated data processing, analysis, and visualization of multi-regional watershed model outputs"
 
-      - company: NASA Jet Propulsion Laboratory
-        position: Summer School Participant
-        location: Pasadena, California, US
-        date: "2025"
-        summary: "Satellite Observations and Climate Models"
-        highlights:
-          - "Completed intensive training on satellite remote sensing applications for climate science"
-          - "Developed project on ocean alkalinity enhancement as a carbon dioxide removal strategy"
-
       - company: University of Portland
         position: Undergraduate Research Assistant
         location: Portland, OR
-        date: "2024"
+        start_date: 2023
+        end_date: 2023
         summary: "Green stormwater infrastructure (GSI) in a changing climate: evaluating tradeoffs between runoff and urban heat"
         highlights:
           - "Assisted Dr. Jordyn Wolfand with drafting of NSF funding proposal"
@@ -84,7 +77,8 @@ cv:
       - company: Kimley Horn and Associates
         position: Civil Engineering Production Intern
         location: Portland, OR
-        date: "2023"
+        start_date: 2023
+        end_date: 2023
         highlights:
           - "Drafted and modeled engineering designs using Civil 3D"
           - "Sought mentorship from Senior Engineers"
@@ -92,7 +86,8 @@ cv:
       - company: INSA Lyon
         position: International Student Researcher
         location: Lyon, France
-        date: "2023"
+        start_date: 2023
+        end_date: 2023
         summary: Monitoring, Modelling Approaches, and Evaluation of the Resilience of Bioretention Systems
         highlights:
           - "Completed independent research thesis (60+ pages) on modeling and assessing bioretention cell resilience to climate change; defended before faculty jury"
@@ -113,7 +108,8 @@ cv:
       - company: Portland State University
         position: Undergraduate Research Assistant
         location: Portland, OR
-        date: "2022"
+        start_date: 2022
+        end_date: 2022
         summary: Microplastics in Moss Research
         highlights:
           - "Conducted field sample collection, preservation, and documentation of moss samples from urban trees"
@@ -123,14 +119,16 @@ cv:
     Projects:
       - name: Physics Informed Neural Networks for Water Quality
         location: "Carnegie Mellon University, Pittsburgh, PA"
-        date: "2026"
+        start_date: 2026
+        end_date: "present"
         highlights: 
           - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2"
           - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
      
       - name: Representative Characteristics of the Chesapeake Bay Watershed
         location: "Carnegie Mellon University, Pittsburgh, PA"
-        date: "2025"
+        start_date: 2025
+        end_date: 2025
         highlights: 
           - "Conducted multi-parameter characterization of four physiographic regions using satellite data, soil databases, and groundwater measurements"
           - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
@@ -145,13 +143,24 @@ cv:
       
       - name: Ocean Power and Energy Burden
         location: "Reykjavik University, Reykjavik, Iceland"
-        date: "2022"
+        start_date: 2022
+        end_date: 2022
         highlights:
           - "Compiled review of ocean power technologies"
           - "Assessed feasibility for reducing energy burden in marginalized coastal communities"
     
-    Volunteer:
-      - name: "CMU Graduate Student Outreach Committee Representative"
+    Related:
+      - name: NASA Jet Propulsion Laboratory
+        position: Summer School Participant
+        location: Pasadena, California, US
+        start_date: 2025
+        end_date: 2025
+        summary: "Satellite Observations and Climate Models"
+        highlights:
+          - "Completed intensive training on satellite remote sensing applications for climate science"
+          - "Developed project on ocean alkalinity enhancement as a carbon dioxide removal strategy"
+      - name: "CMU Graduate Student Outreach Committee"
+        position: Student Representative
         location: Pittsburgh, PA
         start_date: 2024
         end_date: "present"
@@ -159,9 +168,11 @@ cv:
           - "Plan outreach events promoting STEM education"
           - "Lead hands-on, engineering-related workshops for K-12 students"
 
-      - name: Global Brigades International Public Health Volunteer
+      - name: Global Brigades
+        position: International Public Health Volunteer
         location: Anomabo, Ghana
-        date: 2022
+        start_date: 2022
+        end_date: 2022
         highlights:
           - "Collaborated with local engineers to design and construct anaerobic digestor toilet systems" 
           - "Created sanitation education materials for local community"
