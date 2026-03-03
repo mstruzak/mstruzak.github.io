@@ -8,4 +8,4 @@ category: work
 related_publications: false
 ---
 
-<embed src="{{ site.baseurl }}/assets/pdf/Struzak_MONITORING, MODELLING APPROACHES AND EVALUATION OF THE RESILIENCE OF BIORETENTION SYSTEMS.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="{{ site.baseurl }}/assets/pdfs/Struzak_MONITORING, MODELLING APPROACHES AND EVALUATION OF THE RESILIENCE OF BIORETENTION SYSTEMS.pdf" type="application/pdf" width="100%" height="800px" />
