@@ -42,9 +42,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-columbia-slough-stormwater-treatment",
+          title: 'Columbia Slough Stormwater Treatment',
+          description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
