@@ -42,11 +42,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-columbia-slough-stormwater-treatment",
-          title: 'Columbia Slough Stormwater Treatment',
-          description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -82,6 +77,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-columbia-slough-stormwater-treatment",
+          title: 'Columbia Slough Stormwater Treatment',
+          description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/capstone.html";
             },},{id: "projects-monitoring-modeling-approaches-and-evaluation-of-the-resilience-of-bioretention-systems",
           title: 'Monitoring, Modeling Approaches and Evaluation of the Resilience of Bioretention Systems',
           description: "Final deliverable from independent research asssistantship during exchange semester at INSA Lyon in France; defended before a faculty Jury in French.",
