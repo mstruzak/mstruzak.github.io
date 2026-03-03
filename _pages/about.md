@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ਮਾਇਆਕੌਰ
+subtitle: ਮਾਇਆ ਕੌਰ
 
 profile:
   align: right
