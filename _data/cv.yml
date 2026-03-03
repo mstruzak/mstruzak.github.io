@@ -1,250 +1,209 @@
 cv:
-  name: Maya Struzak
-  # label: Scientist
-  email: mstruzak@andrew.cmu.edu
-  location: Pittsburgh, PA
-  # image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: "Maya Struzak"
+  location: "Pittsburgh, PA"
+  email: "mstruzak@andrew.cmu.edu"
+  phone:
+  website: "https://mstruzak.github.io"
   social_networks:
-    - network: GitHub
-      username: mstruzak
-    - network: LinkedIn
-      username: mayastruzak
-
-  address:
-    street: 4815 Frew St Room 117, Pittsburgh, PA 15213
-    city: Pittsburgh
-    region: Pennsylvania
-    postalCode: PA 15217
-    countryCode: US
-
+    - network: "GitHub"
+      username: "mstruzak"
   sections:
-    Education:
-      - institution: Carnegie Mellon University
-        location: Pittsburgh, PA
-        url: "https://www.cmu.edu/"
-        area: Civil & Environmental Engineering
-        studyType: PhD
-        start_date: 2024
-        end_date: "present"
-        summary: "Advisors: David Rounce, Sarah Fakhreddine"
-        # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
-
-      - institution: University of Portland
-        location: Portland, OR
-        area: Civil Engineering
-        studyType: BSc
-        start_date: 2020
-        end_date: 2024
+    education:
+      - institution: "Carnegie Mellon University"
+        area: "Civil and Environmental Engineering"
+        degree: "PhD"
+        grade:
+        date: "Fall 2024 - present"
+        start_date:
+        end_date:
+        location: "Pittsburgh, PA"
+        summary:
         highlights:
-          - "Dean's List, President's Scholarship"
-          - "NAE Grand Challenge Scholar"
-          
-      - institution: INSA Lyon
-        location: Lyon, France
-        area: Civil Engineering and Urbanism
-        studyType: Independently Arranged Exchange
-        start_date: 2023
-        end_date: 2023
-        summary: "Advisor: Gislain Lipeme-Kouyi"
-
-    Experience:
-      - company: Carnegie Institute of Technology, Carnegie Mellon University
-        position: Graduate Research Assistant
-        location: Pittsburgh, PA
-        start_date: 2024
-        end_date: "present"
-        summary: "Climate Change Impacts on Agricultural Best Management Practices in the Chesapeake Bay Watershed"
+          - "Advised by David Rounce and Sarah Fakhreddine"
+      - institution: "University of Portland"
+        area: "Civil Engineering"
+        degree: "BS"
+        grade:
+        date: "Fall 2020 - Spring 2024"
+        start_date:
+        end_date:
+        location: "Portland, OR"
+        summary:
         highlights:
-          - "Collaborating with the Chesapeake Bay Program, The Water Institute and RAND to evaluate BMP effectiveness under RCP4.5/8.5 climate scenarios to inform EPA policy decisions"
+          - "Dean's List | President's Scholarship"
+          - "National Academies of Engineering Grand Challenge Scholar"
+      - institution: "INSA Lyon"
+        area: "Civil Engineering and Urbanism"
+        degree: "Independently Arranged Exchange"
+        grade:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights: []
+    experience:
+      - company: "Carnegie Mellon University"
+        position: "Graduate Research Assistant"
+        date:
+        start_date: "2024"
+        end_date: "present"
+        location: "Pittsburgh, PA"
+        summary:
+        highlights:
+          - "Collaborating with the Chesapeake Bay Program, The Water Institute, and RAND to evaluate BMP effectiveness under future climate scenarios"
           - "Modeling pollutant removal efficiencies for nitrogen, phosphorus, and sediment across four physiographic regions using the APEX model"
           - "Developing Python tools for automated data processing, analysis, and visualization of multi-regional watershed model outputs"
-
-      - company: University of Portland
-        position: Undergraduate Research Assistant
-        location: Portland, OR
-        start_date: 2023
-        end_date: 2023
-        summary: "Green stormwater infrastructure (GSI) in a changing climate: evaluating tradeoffs between runoff and urban heat"
+      - company: "Kimley-Horn"
+        position: "Civil Engineering Production Intern"
+        date: "Summer 2023"
+        start_date:
+        end_date:
+        location:
+        summary:
         highlights:
-          - "Assisted Dr. Jordyn Wolfand with drafting of NSF funding proposal"
-          - "Developed a review of relevant literature and began developing methodology using Noah-MP Land Surface Model"
-
-      - company: Kimley Horn and Associates
-        position: Civil Engineering Production Intern
-        location: Portland, OR
-        start_date: 2023
-        end_date: 2023
-        highlights:
-          - "Drafted and modeled engineering designs using Civil 3D"
-          - "Sought mentorship from Senior Engineers"
-      
-      - company: INSA Lyon
-        position: International Student Researcher
-        location: Lyon, France
-        start_date: 2023
-        end_date: 2023
-        summary: Monitoring, Modelling Approaches, and Evaluation of the Resilience of Bioretention Systems
+          - "Drafted and modeled engineering designs using Civil 3D and ArcGIS"
+          - "Sought out mentorship and training from senior engineers"
+      - company: "INSA Lyon"
+        position: "International Student Researcher"
+        date: "Spring 2023"
+        start_date:
+        end_date:
+        location: "Lyon, France"
+        summary:
         highlights:
           - "Completed independent research thesis (60+ pages) on modeling and assessing bioretention cell resilience to climate change; defended before faculty jury"
           - "Conducted literature review of 86 publications and curated case studies to validate bioretention models"
-          - "Collaborated with PhD candidate on preliminary model validation for CANOE Hydrobox (hydrologic model)"
-
-      - company: University of Portland
-        position: Undergraduate Research Assistant
-        location: Portland, OR
-        start_date: 2021
-        end_date: 2022
-        summary: Efficiency of Biochar as an Amendment to Bioretention Systems
+          - "Collaborated with PhD candidate on preliminary model validation for CANOE Hydrobox"
+      - company: "University of Portland"
+        position: "Undergraduate Research Assistant"
+        date: "Spring - Fall 2022"
+        start_date:
+        end_date:
+        location: "Portland, OR"
+        summary:
         highlights:
-          - "Studied pollutant removal efficiency of biochar in bioretention under Prof. Cara Poor and Dr. Jordyn Wolfand"
+          - "Studied pollutant removal efficiency of biochar in bioretention systems"
           - "Designed and conducted experimental trials using pilot-scale bioretention systems and performed wet lab analysis of stormwater effluent samples for metals, nutrients, and microplastics"
           - "Prepared a manuscript as first author for Journal of Environmental Engineering (see Publications)"
-
-      - company: Portland State University
-        position: Undergraduate Research Assistant
-        location: Portland, OR
-        start_date: 2022
-        end_date: 2022
-        summary: Microplastics in Moss Research
+      - company: "Portland State University"
+        position: "Undergraduate Research Assistant"
+        date: "Fall 2022"
+        start_date:
+        end_date:
+        location: "Portland, OR"
+        summary:
         highlights:
-          - "Conducted field sample collection, preservation, and documentation of moss samples from urban trees"
-          - "Prepared samples for microplastics analysis and performed preliminary testing"
-          - "Identified and collected moss samples; prepared samples for microplastics analysis"
-
-    Projects:
-      - name: Physics Informed Neural Networks for Water Quality
-        location: "Carnegie Mellon University, Pittsburgh, PA"
-        start_date: 2026
-        end_date: "present"
-        highlights: 
-          - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2"
+          - "Conducted field sample collection, preparation, and documentation of moss samples from urban trees"
+          - "Performed preliminary microplastics analysis"
+    projects:
+      - name: "Physics-Informed Neural Networks for Water Quality"
+        date: "Spring 2026 - present"
+        start_date:
+        end_date:
+        location: "Pittsburgh, PA"
+        summary:
+        highlights:
+          - "Developed satellite imagery models to predict chlorophyll-a content using Sentinel-2 data"
           - "Compared traditional band-ratio algorithms with physics-constrained neural networks"
-     
-      - name: Representative Characteristics of the Chesapeake Bay Watershed
-        location: "Carnegie Mellon University, Pittsburgh, PA"
-        start_date: 2025
-        end_date: 2025
-        highlights: 
+      - name: "Assessing Efficiency of Ocean Alkalinity Enhancement (OAE)"
+        date: "Summer 2025"
+        start_date:
+        end_date:
+        location: "Pasadena, CA"
+        summary:
+        highlights:
+          - "Conducted experiments using a 1D model to assess the efficiency of OAE along different latitudes and dosing schedules in the Atlantic Ocean"
+      - name: "Representative Characteristics of the Chesapeake Bay Watershed"
+        date: "Spring 2025"
+        start_date:
+        end_date:
+        location: "Pittsburgh, PA"
+        summary:
+        highlights:
           - "Conducted multi-parameter characterization of four physiographic regions using satellite data, soil databases, and groundwater measurements"
           - "Applied statistical analysis to quantify significant regional differences; generated inputs for APEX modeling"
-      
-      - name: Outfall 65 Stormwater Treatment
-        location: "University of Portland, Portland, OR"
-        start_date: 2023
-        end_date: 2024
-        highlights: 
+      - name: "Outfall 65 Stormwater Treament"
+        date: "Fall 2023 - Spring 2024"
+        start_date:
+        end_date:
+        location: "Portland, OR"
+        summary:
+        highlights:
           - "Designed stormwater treatment facility integrating green infrastructure with treatment vault for socio-economically vulnerable community"
           - "Delivered design proposal with analysis of alternatives; plans drafted in AutoCAD and ArcGIS"
-      
-      - name: Ocean Power and Energy Burden
-        location: "Reykjavik University, Reykjavik, Iceland"
-        start_date: 2022
-        end_date: 2022
+      - name: "Ocean Power and Energy Burden"
+        date: "Summer 2022"
+        start_date:
+        end_date:
+        location: "Reykjavik, Iceland"
+        summary:
         highlights:
-          - "Compiled review of ocean power technologies"
-          - "Assessed feasibility for reducing energy burden in marginalized coastal communities"
-    
-    Related:
-      - name: NASA Jet Propulsion Laboratory
-        position: Summer School Participant
-        location: Pasadena, California, US
-        start_date: 2025
-        end_date: 2025
-        summary: "Satellite Observations and Climate Models"
-        highlights:
-          - "Completed intensive training on satellite remote sensing applications for climate science"
-          - "Developed project on ocean alkalinity enhancement as a carbon dioxide removal strategy"
-      - name: "CMU Graduate Student Outreach Committee"
-        position: Student Representative
-        location: Pittsburgh, PA
-        start_date: 2024
-        end_date: "present"
+          - "Compiled review of ocean power technologies; assessed feasibility for reducing energy burden in marginalized coastal communities"
+    extracurriculars:
+      - name: "Graduate Student Outreach Committee"
+        date: "Fall 2024 - present"
+        start_date:
+        end_date:
+        location: "Pittsburgh, PA"
+        summary:
         highlights:
           - "Plan outreach events promoting STEM education"
-          - "Lead hands-on, engineering-related workshops for K-12 students"
-
-      - name: Global Brigades
-        position: International Public Health Volunteer
-        location: Anomabo, Ghana
-        start_date: 2022
-        end_date: 2022
+          - "Lead workshops for K-12 students"
+      - name: "Society of Women Engineers "
+        date: "Fall 2022 - present"
+        start_date:
+        end_date:
+        location: "OR & PA"
+        summary:
         highlights:
-          - "Collaborated with local engineers to design and construct anaerobic digestor toilet systems" 
-          - "Created sanitation education materials for local community"
-
-    Publications:
-      - title: Evaluation of Biochar on Metals, Nutrient, and Microplastics Removal in Bioretention Systems
+          - "Provide mentosrhip to young women studying Civil and Environmental Engineering"
+          - "Lead water resource-related activities for middle schoolers"
+      - name: "Forest Park Trail Conservation"
+        date: "Spring 2021 - 2024"
+        start_date:
+        end_date:
+        location: "Portland, OR"
+        summary:
+        highlights:
+          - "Collaborated with non-profit, Forest Park Conservancy, to lead student trail cleanup groups"
+      - name: "Public Health Volunteer"
+        date: "Spring 2022"
+        start_date:
+        end_date:
+        location: "Anomabo, Ghana"
+        summary:
+        highlights:
+          - "Fundraised and organized international volunteering trip for 10 students via non-profit, Global Brigades"
+          - "Designed and constructed anaerobic digestor toilet systems with local engineers and artisans"
+          - "Created sanitation education materials for community children"
+    publications:
+      - title: "Evaluation of Biochar on Metals, Nutrient, and Microplastics Removal in Bioretention Systems"
         authors:
-          - Maya Struzak
-          - Cara Poor
-          - Jordyn Wolfand
-          - Abigail Radke
-        publisher: Journal of Environmental Engineering
-        releaseDate: January 2024
-        url: "https://doi.org/10.1061/JOEEDU.EEENG-7487"
-        summary: Biochar amendment improved removal of copper (73% vs 25%) and zinc (79% vs 54%) in pilot-scale bioretention columns, but showed nutrient leaching and no significant effect on microplastics removal.
-
-    Skills:
-      - name: Programming
-        # level: Master
-        # icon: fa-solid fa-hashtag
-        summary: "Python (geopandas, rasterio, SALib, TensorFlow), R, MATLAB, Git"
-      
-      - name: GIS & Modeling
-        summary: "ArcGIS, Google Earth Engine, APEX, SWMM, AutoCAD Civil3D"
-        
-    Languages:
-      - name: English
-        summary: "Native"
-
-      - name: French
-        summary: "Native"
-
-      - name: Polish
-        summary: "Intermediate"
-
-      - name: Spanish
-        summary: "Elementary"
-
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Engineer in Training (EIT)
-        date: 2024
-        issuer: State of California
-        # icon: fa-solid fa-location-dot
-
-      - name: AutoCAD Certified User
-        date: 2022
-        issuer: AutoDesk
-
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    References:
-      - name: Professor David Rounce
-        # icon: fa-solid fa-laptop
-        reference: drounce@cmu.edu
-        
-      - name: Professor Sarah Fakhreddine
-        reference: sfakhreddine@andrew.cmu.edu
-
-      - name: Professor Cara Poor
-        reference: cpoor@up.edu
-
-      - name: Professor Jordyn Wolfand
-        reference: wolfand@up.edu
+          - "***Maya Struzak***"
+          - "Cara Poor"
+          - "Jordyn Wolfand"
+          - "Abigail Radke"
+        doi: "10.1061/JOEEDU.EENG-7487"
+        url:
+        journal: "Journal of Environmental Engineering"
+        date: "2024-01"
+    skills:
+      - label: "Programming"
+        details: "Python (geopandas, rasterio, SALib, TensorFlow), R, Git, MATLAB"
+      - label: "GIS & Modeling"
+        details: "ArcGIS Pro, Google Earth Engine, APEX, SWMM, AutoCAD Civil3D"
+      - label: "Certifications"
+        details: "Engineer in Training (California), AutoCAD Certified User"
+      - label: "Languages"
+        details: "English (Native), French (Native), Polish (Intermediate), Spanish (Elementary)"
+    references:
+      - label: "David Rounce, PhD"
+        details: "[drounce@cmu.edu](drounce@cmu.edu)"
+      - label: "Sarah Fakhreddine, PhD"
+        details: "[sfakhred@cmu.edu](sfakhred@cmu.edu)"
+      - label: "Jordyn Wolfand, P.E., PhD"
+        details: "[wolfand@up.edu](wolfand@up.edu)"
+      - label: "Cara Poor, P.E., PhD"
+        details: "[cpoor@up.edu](cpoor@up.edu)"
+  sort_entries: "none"
