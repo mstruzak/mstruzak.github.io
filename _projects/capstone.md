@@ -7,9 +7,13 @@ importance: 1
 category: work
 giscus_comments: false
 ---
+The goal of this project was to design a stormwater treatment system to reduce pollutant loading into the Columbia Slough from Outfall Basin 65, using a combination of green and grey infrastructure. Located in a socio-economically vulnerable area, the final design balanced community and ecosystem welfare with cost and constructability.See Drawings and Final Report below.
 
-See Drawings and Final Report Below:
+## Poster
+![Outfall 65 Project Poster](/assets/img/projects/capstone_poster.jpeg)
 
-embed src="{{ site.baseurl }}/assets/pdfs/EGR484 - OUTFALL 65 CAD.pdf" type="application/pdf" width="100%" height="800px" />
+## Final Report
+<embed src="/assets/pdf/outfall65-report.pdf" type="application/pdf" width="100%" height="800px" />
 
-embed src="{{ site.baseurl }}/assets/pdfs/EGR484 - OUTFALL 65 REPORT.pdf" type="application/pdf" width="100%" height="800px" />
+## Drawing Set
+<embed src="/assets/pdf/outfall65-drawings.pdf" type="application/pdf" width="100%" height="800px" />
