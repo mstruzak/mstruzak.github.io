@@ -75,8 +75,8 @@ ninja.data = [{
           description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone.html";
-            },},{id: "projects-monitoring-modeling-approaches-and-evaluation-of-the-resilience-of-bioretention-systems",
-          title: 'Monitoring, Modeling Approaches and Evaluation of the Resilience of Bioretention Systems',
+            },},{id: "projects-bioretention-monitoring-modeling-amp-evaluation",
+          title: 'Bioretention Monitoring, Modeling, &amp;amp; Evaluation',
           description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
