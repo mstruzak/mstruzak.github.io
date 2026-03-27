@@ -15,7 +15,7 @@ The goal of this project was to design a stormwater treatment system to reduce p
 </p>
 
 ## Final Report
-<embed src="/assets/pdfs/EGR484%-%OUTFALL%65%REPORT.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/assets/pdfs/EGR484-OUTFALL-65-REPORT.pdf" type="application/pdf" width="100%" height="800px" />
 
 ## Drawing Set
-<embed src="/assets/pdfs/EGR484%-%OUTFALL%65%CAD%-%11x17.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/assets/pdfs/EGR484-OUTFALL-65-CAD-11x17.pdf" type="application/pdf" width="100%" height="800px" />
