@@ -14,8 +14,10 @@ The goal of this project was to design a stormwater treatment system to reduce p
   <img src="/assets/img/capstone_poster.jpeg" alt="Outfall 65 Project Poster" width="50%" />
 </p>
 
+## Drawing Set
+<embed src="/assets/pdfs/EGR484-OUTFALL-65-CAD-11x17.pdf" type="application/pdf" width="100%" height="800px" />
+
 ## Final Report
 <embed src="/assets/pdfs/EGR484-OUTFALL-65-REPORT.pdf" type="application/pdf" width="100%" height="800px" />
 
-## Drawing Set
-<embed src="/assets/pdfs/EGR484-OUTFALL-65-CAD-11x17.pdf" type="application/pdf" width="100%" height="800px" />
+
