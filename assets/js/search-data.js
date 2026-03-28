@@ -70,9 +70,9 @@ ninja.data = [{
           description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-nae-grand-challenge-scholars-program",
+          title: 'NAE Grand Challenge Scholars Program',
+          description: "Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gcsp.html";
             },},{id: "projects-bioretention-monitoring-modeling-amp-evaluation",
