@@ -17,5 +17,5 @@ Results showed that biochar significantly improved metal removal: columns with 5
 This work resulted in a [first-author publication](https://mstruzak.github.io/publications/) in the *Journal of Environmental Engineering* and was presented at various research showcases at the University of Portland, as well as Oregon's 2023 EWRI Sustainable Stormwater Symposium, where it won "Audience Favorite" for a $1,000 award.
 
 <p align="center">
-  <img src="/assets/img/columns22_poster.jpeg" alt="Biochar Bioretention Poster" width="80%" />
+  <img src="/assets/pdfs/columns22_poster.jpeg" alt="Biochar Bioretention Poster" width="80%" />
 </p>
