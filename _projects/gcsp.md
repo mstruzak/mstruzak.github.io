@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAE Grand Challenge Scholars Program
-description: 'Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences' in Ghana, Iceland, and France.
+description: "Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France."
 img: assets/img/flowers-infra.png
 importance: 4
 category: fun
