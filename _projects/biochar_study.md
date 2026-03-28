@@ -14,8 +14,8 @@ We constructed nine pilot-scale columns with varying biochar ratios (0%, 25%, 50
 
 Results showed that biochar significantly improved metal removal: columns with 50% biochar achieved 79% zinc removal (vs. 54% for controls) and 73% copper removal (vs. 25% for controls). However, all columns, regardless of biochar content, showed consistent nutrient leaching, and microplastics removal (~86%) was unaffected by biochar content.
 
-This work resulted in a first-author publication in the *Journal of Environmental Engineering* and was presented at various research showcases at the University of Portland, as well as Oregon's 2023 EWRI Sustainable Stormwater Symposium, where it won "Audience Favorite" for a $1,000 award.
+This work resulted in a [first-author publication](https://mstruzak.github.io/publications/) in the *Journal of Environmental Engineering* and was presented at various research showcases at the University of Portland, as well as Oregon's 2023 EWRI Sustainable Stormwater Symposium, where it won "Audience Favorite" for a $1,000 award.
 
 <p align="center">
-  <img src="/assets/img/projects/columns22_poster.jpeg" alt="Biochar Bioretention Poster" width="80%" />
+  <img src="/assets/img/columns22_poster.jpeg" alt="Biochar Bioretention Poster" width="80%" />
 </p>
