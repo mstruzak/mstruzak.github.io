@@ -60,11 +60,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-biochar-amended-bioretention-systems",
+          title: 'Biochar-Amended Bioretention Systems',
+          description: "Undergraduate research evaluating biochar as a soil amendment for stormwater treatment.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
+              window.location.href = "/projects/biochar_study.html";
             },},{id: "projects-columbia-slough-stormwater-treatment",
           title: 'Columbia Slough Stormwater Treatment',
           description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
