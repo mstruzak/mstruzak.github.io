@@ -4,7 +4,7 @@ title: NAE Grand Challenge Scholars Program
 description: "Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France."
 img: assets/img/flowers-infra.png
 importance: 4
-category: fun
+category: work
 ---
 
 The [NAE Grand Challenge Scholars Program](https://gcspnetwork.org) is a multidisciplinary undergraduate program focused on preparing engineers to tackle complex global problems. My focus was on **Restoring and Improving Urban Infrastructure**, with an overarching theme of equitable engineering in cross-cultural settings.
