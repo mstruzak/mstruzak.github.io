@@ -65,16 +65,16 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{id: "projects-columbia-slough-stormwater-treatment",
           title: 'Columbia Slough Stormwater Treatment',
           description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone.html";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gcsp.html";
             },},{id: "projects-bioretention-monitoring-modeling-amp-evaluation",
           title: 'Bioretention Monitoring, Modeling, &amp;amp; Evaluation',
           description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
