@@ -55,9 +55,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-ocean-alkalinity-enhancement-modeling",
+          title: 'Ocean Alkalinity Enhancement Modeling',
+          description: "Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-biochar-amended-bioretention-systems",
