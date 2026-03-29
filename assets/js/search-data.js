@@ -55,11 +55,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-ocean-alkalinity-enhancement-modeling",
-          title: 'Ocean Alkalinity Enhancement Modeling',
-          description: "Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
             },},{id: "projects-biochar-amended-bioretention-systems",
           title: 'Biochar-Amended Bioretention Systems',
           description: "Undergraduate research evaluating biochar as a soil amendment for stormwater treatment.",
@@ -80,6 +75,11 @@ ninja.data = [{
           description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
+            },},{id: "projects-ocean-alkalinity-enhancement-modeling",
+          title: 'Ocean Alkalinity Enhancement Modeling',
+          description: "Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/oae.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
