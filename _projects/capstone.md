@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Columbia Slough Stormwater Treatment
-description: Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.
+description: "2023-2024: Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service."
 img: assets/img/outfall65.jpg
 importance: 3
 category: work
