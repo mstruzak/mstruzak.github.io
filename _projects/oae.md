@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ocean Alkalinity Enhancement Modeling
-description: Summer 2025: Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.
+description: "Summer 2025: Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School."
 img: assets/img/ocean.png
 importance: 1
 category: work
