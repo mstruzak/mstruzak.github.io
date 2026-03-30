@@ -52,7 +52,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-biochar-amended-bioretention-systems",
           title: 'Biochar-Amended Bioretention Systems',
-          description: "Undergraduate research evaluating biochar as a soil amendment for stormwater treatment.",
+          description: "2023 - Undergraduate research evaluating biochar as a soil amendment for stormwater treatment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biochar_study.html";
             },},{id: "projects-columbia-slough-stormwater-treatment",
