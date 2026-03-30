@@ -35,11 +35,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-regional-characteristics-of-the-chesapeake-bay-watershed",
-          title: 'Regional Characteristics of the Chesapeake Bay Watershed',
-          description: "Spring 2025: Geospatial data analytics project using remote sensing and in-situ monitoring data to characterize physiographic regions for hydrologic modeling.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -65,6 +60,11 @@ ninja.data = [{
           description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone.html";
+            },},{id: "projects-regional-characteristics-of-the-chesapeake-bay-watershed",
+          title: 'Regional Characteristics of the Chesapeake Bay Watershed',
+          description: "Spring 2025: Geospatial data analytics project using remote sensing and in-situ monitoring data to characterize physiographic regions for hydrologic modeling.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cbw_characteristics.html";
             },},{id: "projects-nae-grand-challenge-scholars-program",
           title: 'NAE Grand Challenge Scholars Program',
           description: "Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France.",
@@ -75,9 +75,9 @@ ninja.data = [{
           description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
-            },},{id: "projects-ocean-alkalinity-enhancement-modeling",
-          title: 'Ocean Alkalinity Enhancement Modeling',
-          description: "Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oae.html";
             },},{id: "teachings-data-science-fundamentals",
