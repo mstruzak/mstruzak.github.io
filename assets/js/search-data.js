@@ -75,9 +75,9 @@ ninja.data = [{
           description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ocean-alkalinity-enhancement-modeling",
+          title: 'Ocean Alkalinity Enhancement Modeling',
+          description: "Summer 2025: Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oae.html";
             },},{id: "teachings-data-science-fundamentals",
