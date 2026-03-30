@@ -3,7 +3,7 @@ layout: page
 title: Ocean Alkalinity Enhancement Modeling
 description: Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.
 img: assets/img/ocean.png
-importance: 3
+importance: 1
 category: work
 related_publications: false
 ---
