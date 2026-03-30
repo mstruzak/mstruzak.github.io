@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/cbw_characteristics.html";
             },},{id: "projects-nae-grand-challenge-scholars-program",
           title: 'NAE Grand Challenge Scholars Program',
-          description: "Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France.",
+          description: "2020-2024: Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gcsp.html";
             },},{id: "projects-bioretention-monitoring-modeling-amp-evaluation",
