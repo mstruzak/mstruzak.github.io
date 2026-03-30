@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Biochar-Amended Bioretention Systems
-description: "Undergraduate research evaluating biochar as a soil amendment for stormwater treatment."
+description: "2023 - Undergraduate research evaluating biochar as a soil amendment for stormwater treatment."
 img: assets/img/gsi.png
-importance: 2
+importance: 5
 category: work
 giscus_comments: false
 ---
