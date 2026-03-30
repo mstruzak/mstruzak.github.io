@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/projects/gcsp.html";
             },},{id: "projects-bioretention-monitoring-modeling-amp-evaluation",
           title: 'Bioretention Monitoring, Modeling, &amp;amp; Evaluation',
-          description: "Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
+          description: "Spring 2023: Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insa-these.html";
             },},{id: "projects-ocean-alkalinity-enhancement-modeling",
