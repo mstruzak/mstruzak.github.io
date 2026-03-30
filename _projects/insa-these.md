@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioretention Monitoring, Modeling, & Evaluation
-description: Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French.
+description: "Spring 2023: Independent research asssistantship during exchange semester at INSA Lyon, France; defended before a faculty Jury in French."
 img: assets/img/lyon.png
 importance: 3
 category: work
