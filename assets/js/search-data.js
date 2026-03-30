@@ -57,7 +57,7 @@ ninja.data = [{
               window.location.href = "/projects/biochar_study.html";
             },},{id: "projects-columbia-slough-stormwater-treatment",
           title: 'Columbia Slough Stormwater Treatment',
-          description: "Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
+          description: "2023-2024: Senior Group Capstone Design Project in collaboration with City of Portland Bureau of Environmental Service.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone.html";
             },},{id: "projects-regional-characteristics-of-the-chesapeake-bay-watershed",
