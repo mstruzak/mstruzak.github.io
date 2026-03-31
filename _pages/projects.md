@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 'chronological - newest to oldest'
+description: 'projects in reversed chronological order.'
 nav: true
 nav_order: 3
 display_categories: false
