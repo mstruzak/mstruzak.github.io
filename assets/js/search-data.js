@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-biochar-amended-bioretention-systems",
+        },{id: "projects-biochar-amended-bioretention-systems",
           title: 'Biochar-Amended Bioretention Systems',
           description: "2022-2023: Undergraduate research evaluating biochar as a soil amendment for stormwater treatment.",
           section: "Projects",handler: () => {
