@@ -15,7 +15,7 @@ Ocean alkalinity enhancement (OAE) is a marine carbon dioxide removal strategy t
   <em>Ocean alkalinity enhancement shifts carbonate chemistry to increase CO₂ uptake, via NASA ECCO Group.</em>
 </p>
 
-As part of the (NASA JPL / Keck Institute Summer School on Satellite Observations and Climate Models)[https://climatesciences.jpl.nasa.gov/events/summer-school/about/], our team used an existing 1D ocean column model to evaluate OAE efficiency under different deployment scenarios, under JPL researcher, [Dr. Kay Suselj](https://science.jpl.nasa.gov/people/ksuselj/). We simulated alkalinity injections along a Pacific transect (165°W, 77°S to 52°N) and tested the effects of deployment timing (year-long vs. seasonal), latitude, vertical velocity, diffusivity, and sea ice coverage.
+As part of the [NASA JPL / Keck Institute Summer School on Satellite Observations and Climate Models](https://climatesciences.jpl.nasa.gov/events/summer-school/about/), our team used an existing 1D ocean column model to evaluate OAE efficiency under different deployment scenarios, under JPL researcher, [Dr. Kay Suselj](https://science.jpl.nasa.gov/people/ksuselj/). We simulated alkalinity injections along a Pacific transect (165°W, 77°S to 52°N) and tested the effects of deployment timing (year-long vs. seasonal), latitude, vertical velocity, diffusivity, and sea ice coverage.
 <p align="center">
   <img src="/assets/img/oae_transect.png" alt="OAE Deployment Transect" width="50%" />
     <br>
