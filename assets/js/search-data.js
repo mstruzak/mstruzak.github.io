@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "chronological - newest to oldest",
+          description: "projects in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -60,16 +60,6 @@ ninja.data = [{
           description: "Summer 2025: Exploration of marine carbon dioxide removal using a 1D ocean column model during NASA JPL CCS Summer School.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oae.html";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-email',
         title: 'email',
