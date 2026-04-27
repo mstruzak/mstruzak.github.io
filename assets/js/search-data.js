@@ -45,6 +45,11 @@ ninja.data = [{
           description: "Spring 2025: Geospatial data analytics project using remote sensing and in-situ monitoring data to characterize physiographic regions for hydrologic modeling.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cbw_characteristics.html";
+            },},{id: "projects-physics-informed-vs-data-driven-ml-for-chl-a-retrieval-from-landsat-8",
+          title: 'Physics-Informed vs Data-Driven ML for Chl-a Retrieval from Landsat 8',
+          description: "2026: Class project for PIML class",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chl-a_l8_piml.html";
             },},{id: "projects-nae-grand-challenge-scholars-program",
           title: 'NAE Grand Challenge Scholars Program',
           description: "2020-2024: Equitable Engineering in Cross Cultural Settings: undergraduate honors program addressing global infrastructure challenges through experiences in Ghana, Iceland, and France.",
