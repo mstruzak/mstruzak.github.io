@@ -7,6 +7,6 @@ importance: 1
 category: work
 giscus_comments: false
 ---
-Code available on github:[Chlorophyll-a Retrieval from Landsat 8 using Physics-Informed MLPs](https://github.com/mstruzak/chla-landsat8-piml).
+Code available on [github](https://github.com/mstruzak/chla-landsat8-piml).
 
 <embed src="/assets/pdfs/mstruzak_chla-landsat8-piml.pdf" type="application/pdf" width="100%" height="800px" />
